@@ -12,5 +12,7 @@
   - 帶著社員從 http 封包中抓取檔案、圖片
   - 抓取 https 封包去觀察 TLS Handshake
 
+- 照片(1)
 ![](https://drive.google.com/u/2/uc?id=1BlBC8WjyuwOmJ1icUe9v6jPGFN60SjPm&export=download)
+- 照片(2)
 ![](https://drive.google.com/u/2/uc?id=1A8RrVsdNWBebPATEwGuyBSMYwrk6-sk9&export=download)
