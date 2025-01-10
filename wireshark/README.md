@@ -11,3 +11,6 @@
   - 介紹 D-H key exchange
   - 帶著社員從 http 封包中抓取檔案、圖片
   - 抓取 https 封包去觀察 TLS Handshake
+
+![](https://i.imgur.com/OcenhG0.png](https://drive.google.com/file/d/1BlBC8WjyuwOmJ1icUe9v6jPGFN60SjPm/view?usp=drive_link))
+![](https://drive.google.com/file/d/1BlBC8WjyuwOmJ1icUe9v6jPGFN60SjPm/view?usp=drive_link)
